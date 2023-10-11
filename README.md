@@ -1,2 +1,2 @@
-# gir_practice
+# git_practice
 #hello,world
